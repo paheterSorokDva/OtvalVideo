@@ -1,0 +1,10 @@
+D:\HlamProjects\OtvalVideo\OtvalVideo\bin\Debug\OtvalVideo.exe.config
+D:\HlamProjects\OtvalVideo\OtvalVideo\bin\Debug\OtvalVideo.exe
+D:\HlamProjects\OtvalVideo\OtvalVideo\bin\Debug\OtvalVideo.pdb
+D:\HlamProjects\OtvalVideo\OtvalVideo\obj\Debug\OtvalVideo.csproj.AssemblyReference.cache
+D:\HlamProjects\OtvalVideo\OtvalVideo\obj\Debug\OtvalVideo.Properties.Resources.resources
+D:\HlamProjects\OtvalVideo\OtvalVideo\obj\Debug\OtvalVideo.csproj.GenerateResource.cache
+D:\HlamProjects\OtvalVideo\OtvalVideo\obj\Debug\OtvalVideo.csproj.CoreCompileInputs.cache
+D:\HlamProjects\OtvalVideo\OtvalVideo\obj\Debug\OtvalVideo.exe
+D:\HlamProjects\OtvalVideo\OtvalVideo\obj\Debug\OtvalVideo.pdb
+D:\HlamProjects\OtvalVideo\OtvalVideo\obj\Debug\OtvalVideo.Form1.resources
